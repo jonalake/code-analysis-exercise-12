@@ -23,14 +23,14 @@ function (currentColor){
 
 | Input | Output |
 | ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+|  red  |    green    | 
+| green |    yellow   | 
+| blue  |  undefined  | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>The program takes a valid green, yellow, or red color input (currentColor) and outputs nextColor, following the color rotation of a traditional stop light. This program will cause an error if one of these three colors is not the input as nextColor will be undefined. </td>
   </tr>
 </table>
 
